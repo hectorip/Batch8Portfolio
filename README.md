@@ -3,7 +3,7 @@ Portafolio para crear perfiles de los integrantes de Batch , y muestra de creaci
 
 Puntos a revisar:
  - SOLID
- - Dependency Injection
- - Uso de Servicios Internos
+ - TDD
+ - Uso de Servicios externos
  - Demostración de uso de CDN
  - Integración de cachés y nuevas bases de datos.
